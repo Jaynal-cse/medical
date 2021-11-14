@@ -1,0 +1,5 @@
+[04-Feb-2021 04:24:25 UTC] PHP Fatal error:  Cannot declare class CreateDesignationsTable, because the name is already in use in /home/iconmedi/public_html/database/migrations/2021_02_03_125505_create_designations_table.php on line 0
+[06-Feb-2021 14:36:02 UTC] PHP Fatal error:  Cannot use [] for reading in /home/iconmedi/public_html/storage/framework/views/08677ec3764a45f99f487cdd509ea651857c3ecc.php on line 72
+[24-Feb-2021 12:09:54 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home/iconmedi/public_html/app/Http/Controllers/FrontendController.php on line 8
+[01-Mar-2021 13:47:27 UTC] PHP Fatal error:  Cannot use App\Department as Department because the name is already in use in /home/iconmedi/public_html/app/Http/Controllers/DoctorController.php on line 8
+[01-Mar-2021 17:26:01 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\FrontendController::deptDoctor() in /home/iconmedi/public_html/app/Http/Controllers/FrontendController.php on line 469
